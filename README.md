@@ -85,4 +85,4 @@ controlC: avoid program closing when pressing ctrl + c.
 main: initialize program.
 
 ## Authors
-- Rhomeinel | rhomeinel@gmail.com
+- t-Spirit | ericturkson38@gmail.com
